@@ -1,0 +1,6 @@
+{
+  "name": "Bivash Index",
+  "description": "Offline-first personal and team attendance, shift, and daily duty register with local backup, restore, and offline update packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
